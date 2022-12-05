@@ -1,1 +1,1 @@
-Just a Fun little linkedList parctice. This was much easier than I thought it would be. I really liked this exercise and yeah that's all I have to say about this repo.
+Just a Fun little linkedList practice. This was much easier than I thought it would be. I really liked this exercise and yeah that's all I have to say about this repo.
